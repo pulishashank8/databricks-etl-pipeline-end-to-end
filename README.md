@@ -49,7 +49,7 @@ Prepares curated data for reporting, dashboards, and advanced analytics.
 
 - SCD Type 2 for maintaining historical records when attributes change.
 
-## 🔁 ETL Pipeline Flow
+## ETL Pipeline Flow
 
 1. **Bronze Layer**  
    - Ingest raw `orders`, `customers`, and `products` data into Delta tables.
